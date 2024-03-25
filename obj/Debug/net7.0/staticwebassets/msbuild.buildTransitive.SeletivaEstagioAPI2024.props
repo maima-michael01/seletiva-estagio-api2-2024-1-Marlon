@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SeletivaEstagioAPI2024.props" />
+</Project>
